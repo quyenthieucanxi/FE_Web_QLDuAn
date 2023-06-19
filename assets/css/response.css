@@ -1,0 +1,36 @@
+/* X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (max-width: 1700px) {
+    /* -----------------------------------------
+          Home CSS
+      ----------------------------------------- */
+    .home-banner-area .shape img.shape-1 {
+      top: 27%;
+      left: 15%;
+      max-width: 25px;
+    }
+    .home-banner-area .shape img.shape-2 {
+      top: 52%;
+      left: 15%;
+      max-width: 35px;
+    }
+    .home-banner-area .shape img.shape-3 {
+      top: 50%;
+      left: 30%;
+      max-width: 20px;
+    }
+    .home-banner-area .shape img.shape-4 {
+      top: 38%;
+      right: 19%;
+      max-width: 20px;
+    }
+    .home-banner-area .shape img.shape-5 {
+      top: 50%;
+      right: 31%;
+      max-width: 35px;
+    }
+    .home-banner-area .shape img.shape-6 {
+      top: 58%;
+      right: 12%;
+      max-width: 20px;
+    }
+}
